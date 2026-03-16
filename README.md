@@ -82,12 +82,6 @@ in your browser.
 [Watch the demo](assets/demo.mp4)
 Add screenshots of the game UI here.
 
-Example:
-
-```
-![Game Screenshot](images/game.png)
-```
-
 ---
 
 ## 📚 Learning Outcomes
