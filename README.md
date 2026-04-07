@@ -5,7 +5,7 @@
 
 ### A modern , and Simple logical number guessing game with some functional.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Number-Guessing-brightgreen?style=for-the-badge&logo=netlify)](https://www.linkedin.com/posts/amit-pal-05639a33a_javascript-webdevelopment-frontenddeveloper-ugcPost-7439342108882210816-CJNi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUhYMIB4Qcg1aV6QBUfPmcBhPVpUdmVKXM)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Number%20Guessing-brightgreen?style=for-the-badge&logo=netlify)](https://www.linkedin.com/posts/amit-pal-05639a33a_javascript-webdevelopment-frontenddeveloper-ugcPost-7439342108882210816-CJNi)
 [![GitHub](https://img.shields.io/badge/GitHub-Amitpal261-181717?style=for-the-badge&logo=github)](https://github.com/Amitpal261)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--pal-05639a33a?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-pal-05639a33a)
 
