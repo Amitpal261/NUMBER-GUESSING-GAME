@@ -1,5 +1,17 @@
+
+<div align="center">
+
 # 🎮 Number Guessing Game
 
+### A modern, fully responsive full-stack developer portfolio built with the MERN stack, GSAP animations, and a custom Admin Dashboard.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ammiit.netlify.app-brightgreen?style=for-the-badge&logo=netlify)](https://www.linkedin.com/posts/amit-pal-05639a33a_javascript-webdevelopment-frontenddeveloper-ugcPost-7439342108882210816-CJNi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFUhYMIB4Qcg1aV6QBUfPmcBhPVpUdmVKXM)
+[![GitHub](https://img.shields.io/badge/GitHub-Amitpal261-181717?style=for-the-badge&logo=github)](https://github.com/Amitpal261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--pal-05639a33a?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-pal-05639a33a)
+
+
+</div>
+# OVERVIEW
 A simple and interactive **Number Guessing Game** built using **HTML, CSS, and JavaScript**.
 
 In this game, the system generates a random number and the player must guess the correct number. After each guess, the game provides feedback indicating whether the guess is **too high, too low, or correct**.
